@@ -1,6 +1,7 @@
 {
-    "name": "munspel/ctest",
-    "description": "Test composer",
+    "name": "munspel/mvc",
+    "description": "munspel/mvc composer",
+    "version": "1.0.0",
     "require": {
         "twig/twig": "^1.24"
     },
