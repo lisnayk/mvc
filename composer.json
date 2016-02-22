@@ -1,0 +1,18 @@
+{
+    "name": "munspel/ctest",
+    "description": "Test composer",
+    "require": {
+        "twig/twig": "^1.24"
+    },
+    "authors": [
+        {
+            "name": "Andrey Lisnyak",
+            "email": "munspel@ukr.net"
+        }
+    ],
+    "minimum-stability": "stable",
+    "autoload": {
+    	"psr-4":{ "Munspel\\": "munspel/mvc/src/"}
+    }
+
+}
